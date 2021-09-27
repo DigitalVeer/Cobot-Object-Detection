@@ -1,3 +1,1 @@
-# Cobot-Object-Detection
-
-![Demonstration](./demo.gif)
+# turtlebot-tag
